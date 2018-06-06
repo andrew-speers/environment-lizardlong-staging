@@ -9,7 +9,7 @@ dependencies:
   version: 2.3.58
 - name: britecore-mock-project
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.56
+  version: 0.0.57
 - name: ko-node
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.12
